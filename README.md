@@ -1,0 +1,4 @@
+# aem
+En este repositorio de git, se encuentran las respuestas del examen realizado en el reto 04 de Data Science. Mas concretamente, los resultados del modelo B. Como se puede obervar se encuentran diversos documentos. Por un lado, tenemos un documento word y tres codigos de R.
+
+En primer lugar, en el documento de word se encuentra el enunciado del examen con las capturas de los pasos realizados en cmd. es decir, para cada apartado del examen hay una captura donde se muestra los pasos que se han realizado en git. En segundo lugar, nos encontramos los tres codigos de R. En el primero se realiza la consulta especifica que se pregunta en el examen. En el segundo codigo, se encuentra la automatización de esa consulta. de modo, que metiendo dierentes parametros obtengas resultados diferentes. Por ultimo en el codigo de la api, como bien dice su nombre se encuentra la api.
